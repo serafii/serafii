@@ -2,9 +2,9 @@
 <h3 style="font-weight: bold;">Software Engineering Student | Concordia University</h3>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhieWt0ejI4eTA1Zjh3aXIyaDJpemlyNWp5ZWd5ODV0YTA4ZjVjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AGxKdFlEJaxzakKv1/giphy.gif" width="350" alt="Bike" />
-<h4 style="font-weight: bold;">:nerd_face:Check out my most recent project</h4>
+<h4 style="font-weight: bold;">:nerd_face:Check out my personal portfolio</h4>
 <a href="https://smartworldsignals.com/" target="_blank">
-  https://smartworldsignals.com/
+  https://www.serafii.com/
 </a>
 <br></br>
 
@@ -38,7 +38,7 @@
 </a>
 
 ---
-### :fire: My Streak :
+### :fire: My Contributions :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serafii&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
