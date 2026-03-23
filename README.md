@@ -8,6 +8,16 @@
 </a>
 <br></br>
 
+<h4 style="font-weight: bold;">Some of my projects</h4>
+<a href="https://vize-qzbg.onrender.com/" target="_blank">
+  https://vize-qzbg.onrender.com/
+</a>
+</br>
+<a href="https://smartworldsignals.com/" target="_blank">
+  https://smartworldsignals.com/
+</a>
+<br></br>
+
 :hammer_and_wrench: Languages and Tools :
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
