@@ -1,4 +1,4 @@
-<a href="https://www.serafii.com/"><img src="./assets/art.svg" align="left" width="313" alt="ASCII art" /></a>
+<a href="https://www.serafii.com/"><img src="./assets/art.svg" align="left" width="275" alt="ASCII art" /></a>
 <pre>
 <b>sami@serafii</b>
 ------------
