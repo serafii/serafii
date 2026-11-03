@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="GitHub stats">
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px} .t{font-size:12px;letter-spacing:2px}</style>
+<rect x="0.5" y="0.5" width="439" height="199" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="26" y="38" fill="#8b949e">[ GITHUB STATS ]</text>
+<text x="26.0" y="80" fill="#f0883e" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Repos:</text>
+<text x="72.8" y="80" fill="#484f58" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............ </text>
+<text x="182.0" y="80" fill="#58a6ff" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">8</text>
+<text x="220.0" y="80" fill="#f0883e" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stars:</text>
+<text x="266.8" y="80" fill="#484f58" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............ </text>
+<text x="376.0" y="80" fill="#58a6ff" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0</text>
+<text x="26.0" y="114" fill="#f0883e" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Commits:</text>
+<text x="88.4" y="114" fill="#484f58" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........ </text>
+<text x="166.4" y="114" fill="#58a6ff" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">488</text>
+<text x="220.0" y="114" fill="#f0883e" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PRs:</text>
+<text x="251.2" y="114" fill="#484f58" textLength="117.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............. </text>
+<text x="368.2" y="114" fill="#58a6ff" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">70</text>
+<text x="26.0" y="148" fill="#f0883e" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contribs:</text>
+<text x="96.2" y="148" fill="#484f58" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ....... </text>
+<text x="166.4" y="148" fill="#58a6ff" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">646</text>
+<text x="220.0" y="148" fill="#f0883e" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Followers:</text>
+<text x="298.0" y="148" fill="#484f58" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........ </text>
+<text x="376.0" y="148" fill="#58a6ff" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1</text>
+<text x="26" y="182" fill="#484f58" style="font-size:11px">incl. private repos · commits &amp; contribs: last 12 months</text>
+</svg>
