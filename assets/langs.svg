@@ -4,20 +4,20 @@
 <text class="t" x="26" y="38" fill="#8b949e">[ TOP LANGUAGES ]</text>
 <clipPath id="bar"><rect x="26" y="62" width="388" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="26.0" y="62" width="202.6" height="10" fill="#3178c6"/>
-<rect x="231.6" y="62" width="52.8" height="10" fill="#f1e05a"/>
-<rect x="287.4" y="62" width="50.0" height="10" fill="#3572A5"/>
-<rect x="340.4" y="62" width="49.4" height="10" fill="#a91e50"/>
-<rect x="392.9" y="62" width="21.1" height="10" fill="#663399"/>
+<rect x="26.0" y="62" width="199.9" height="10" fill="#3178c6"/>
+<rect x="228.9" y="62" width="54.4" height="10" fill="#3572A5"/>
+<rect x="286.3" y="62" width="52.1" height="10" fill="#f1e05a"/>
+<rect x="341.4" y="62" width="48.8" height="10" fill="#a91e50"/>
+<rect x="393.1" y="62" width="20.9" height="10" fill="#663399"/>
 </g>
 <circle cx="31.0" cy="102" r="5" fill="#3178c6"/>
-<text x="44.0" y="106" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">53.9%</tspan></text>
-<circle cx="225.0" cy="102" r="5" fill="#f1e05a"/>
-<text x="238.0" y="106" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">14.0%</tspan></text>
-<circle cx="31.0" cy="132" r="5" fill="#3572A5"/>
-<text x="44.0" y="136" fill="#c9d1d9">Python <tspan fill="#8b949e">13.3%</tspan></text>
+<text x="44.0" y="106" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">53.2%</tspan></text>
+<circle cx="225.0" cy="102" r="5" fill="#3572A5"/>
+<text x="238.0" y="106" fill="#c9d1d9">Python <tspan fill="#8b949e">14.5%</tspan></text>
+<circle cx="31.0" cy="132" r="5" fill="#f1e05a"/>
+<text x="44.0" y="136" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">13.9%</tspan></text>
 <circle cx="225.0" cy="132" r="5" fill="#a91e50"/>
-<text x="238.0" y="136" fill="#c9d1d9">EJS <tspan fill="#8b949e">13.1%</tspan></text>
+<text x="238.0" y="136" fill="#c9d1d9">EJS <tspan fill="#8b949e">13.0%</tspan></text>
 <circle cx="31.0" cy="162" r="5" fill="#663399"/>
-<text x="44.0" y="166" fill="#c9d1d9">CSS <tspan fill="#8b949e">5.6%</tspan></text>
+<text x="44.0" y="166" fill="#c9d1d9">CSS <tspan fill="#8b949e">5.5%</tspan></text>
 </svg>
